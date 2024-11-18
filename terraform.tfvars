@@ -1,0 +1,5 @@
+ami   = "ami-017095afb82994ac7"
+type = "t2.micro"
+instance_name = "my-demo-instance"
+region = "eu-central-1"
+bucket_name = "tfstate-mybucket-1-12"
